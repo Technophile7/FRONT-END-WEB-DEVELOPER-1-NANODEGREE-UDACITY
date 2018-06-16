@@ -1,0 +1,63 @@
+
+.row
+{
+		border-bottom: 5px solid grey;
+		padding:5px;
+}
+.container
+{
+	box-sizing: border-box;
+	margin:15px;
+	padding-top:15px;
+	padding-bottom: 15px;
+        background-color:azure;
+}
+
+.horizontal
+{
+border-width: 10px;
+    border-color:black;
+
+}
+.underimage
+{
+	
+	font-weight: bold;
+}
+p
+{
+	 font-family: cursive;
+	 font-size: 18px;
+}
+h2
+{
+	font-family: sans-serif;
+	font-size:39px;
+    
+}
+.quote
+{
+	font-family: cursive;
+    color: blue;
+	
+    
+}
+
+h5
+{
+	font-family:  serif;
+	font-size: 25px;
+    text-align: inherit;
+    
+
+}
+
+.about
+{
+   font-family: cursive;
+    color: red; 
+}
+.boddy
+{
+    background-color: cornflowerblue;
+}
