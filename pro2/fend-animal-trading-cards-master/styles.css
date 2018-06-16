@@ -1,0 +1,49 @@
+
+.imageee
+{
+	width:350px;
+	height: 200px;
+	padding-bottom: 18px;
+}
+.bodydesg
+{
+	
+	box-shadow:7px 10px 7px #4a4a4a; 
+    margin: 50px 35%;
+    width: 350px;
+    height: 700px;
+    border: 0.5px solid #e3e3e3;
+    padding:18px;
+    
+
+}
+.headee
+{
+    text-align: center;
+}
+.divee
+{
+	border:1px solid grey;
+	padding:20px;
+}
+
+.factsee
+{
+	font-style: italic;
+    color:darkred;
+}
+.lablee
+{
+	font-weight: bold;
+}
+
+.list
+{
+	list-style-type: none;
+	padding:0px;
+
+}
+.color
+{
+    color:darkblue;
+}
