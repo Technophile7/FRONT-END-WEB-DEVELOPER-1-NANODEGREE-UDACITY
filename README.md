@@ -20,7 +20,7 @@
 
 ## PROJECT-4
 
-**Pixel Art Maker** _(You’ll build a single-page web app that allows users to draw pixel art on a customizable canvas! )._
+**Pixel Art Maker** _(You’ll build a single-page web app that allows users to draw pixel art on a customizable canvas )._
 
 ---
 
